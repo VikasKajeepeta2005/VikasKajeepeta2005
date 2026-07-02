@@ -70,11 +70,6 @@ I'm passionate about building intelligent applications using **Artificial Intell
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VikasKajeepeta2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasKajeepeta2005&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img width="65%" src="https://streak-stats.demolab.com?user=VikasKajeepeta2005&theme=tokyonight&hide_border=true"/>
@@ -102,16 +97,6 @@ I'm passionate about building intelligent applications using **Artificial Intell
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasKajeepeta2005&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> Create a repository named **username/username** GitHub Action to generate this automatically.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/VikasKajeepeta2005/VikasKajeepeta2005/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
