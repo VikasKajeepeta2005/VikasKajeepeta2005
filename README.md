@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Kajeepeta</h1>
-<h3 align="center">B.Tech CSE (AI & ML) | AI Enthusiast | Full-Stack Learner | Open Source Explorer</h3>
+<h3 align="center">B.Tech CSE (AI & ML) | AI Enthusiast | Machine Learning | Open Source Contributor</h3>
 
 ---
 
@@ -12,7 +12,6 @@ I'm passionate about building intelligent applications using **Artificial Intell
 - 🌱 Currently learning **Advanced AI/ML & Deep Learning**
 - 🤖 Interested in **Machine Learning, Data Science, Computer Vision & Generative AI**
 - 💻 Love building practical software projects
-- 🤝 Looking for **Internships**, **Open Source Contributions**, and **Collaborations**
 - 📚 Always learning something new
 
 ---
