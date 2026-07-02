@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Kajeepeta</h1>
 <h3 align="center">B.Tech CSE (AI & ML) | AI Enthusiast | Full-Stack Learner | Open Source Explorer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 # 💫 About Me
@@ -69,10 +65,6 @@ I'm passionate about building intelligent applications using **Artificial Intell
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
