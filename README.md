@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vikas Kajeepeta</h1>
 <h3 align="center">B.Tech CSE (AI & ML) | AI Enthusiast | Machine Learning | Open Source Contributor</h3>
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Vikas%20Kajeepeta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Developer&descAlignY=60"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+I'm+Vikas+Kajeepeta;AI+%26+Machine+Learning+Student;Python+Developer;Full+Stack+Learner;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
+</p>
+
 ---
 
 # 💫 About Me
@@ -58,25 +68,55 @@ I'm passionate about building intelligent applications using **Artificial Intell
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=VikasKajeepeta2005&show_icons=true&theme=tokyonight&hide_border=true"/> 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasKajeepeta2005E&layout=compact&theme=tokyonight&hide_border=true"/> </p> 
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=VikasKajeepeta2005&theme=tokyonight&hide_border=true"/> </p>
-
----
-
-# 🏆 GitHub Trophies
+## 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VikasKajeepeta2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasKajeepeta2005&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="65%" src="https://streak-stats.demolab.com?user=VikasKajeepeta2005&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# ✍️ Developer Quote
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VikasKajeepeta2005&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VikasKajeepeta2005&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+</p>
+
+---
+
+## ⚡ Fun Animation
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasKajeepeta2005&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> Create a repository named **username/username** GitHub Action to generate this automatically.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/VikasKajeepeta2005/VikasKajeepeta2005/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -84,6 +124,7 @@ I'm passionate about building intelligent applications using **Artificial Intell
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer"/>
+</p>
 
-> *"Learning never stops. Every project is another step toward becoming a better developer."* 🚀
