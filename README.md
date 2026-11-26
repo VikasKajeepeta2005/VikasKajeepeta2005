@@ -1,18 +1,9 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<div align="center">
-
-<img src="assets/header.gif" width="100%" alt="Devi Sri Prasad - AI Systems, Backend, Web"/>
-
-
-
-</div>
-
-
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=200&section=header&text=Vikas%20Kajeepeta&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn&stroke=24c6dc&strokeWidth=1" width="100%" />
+<a href="https://www.pinterest.com/pin/99431104325433838/">
 
 <br/>
 
