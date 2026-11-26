@@ -1,3 +1,17 @@
+<div align="center">
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
+  Hi, I'm
+</h1>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=ruchitgoud&theme=aurora&label=Ruchit%20Goud" width="100%" alt="Animated 3D wordmark for Ruchit Goud" />
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" />
+
+</div>
 
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 
