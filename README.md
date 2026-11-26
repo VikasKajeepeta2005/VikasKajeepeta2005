@@ -67,14 +67,41 @@ I'm **Vikas Kajeepeta**, a Computer Science Engineering student specializing in 
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VikasKajeepeta2005&theme=tokyonight&hide_border=true" width="75%"/>
-</p>
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: VikasKajeepeta2005
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 ## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VikasKajeepeta2005/VikasKajeepeta2005/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+  
 </p>
 
 ---
