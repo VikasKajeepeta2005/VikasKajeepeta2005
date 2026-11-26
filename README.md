@@ -3,21 +3,10 @@
 
 <img src="assets/header.gif" width="100%" alt="Devi Sri Prasad - AI Systems, Backend, Web"/>
 
-<br/>
 
-<a href="https://linkedin.com/in/devi-sri-prasad-nakka-68026b333">
-  <img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"/>
-</a>
-<a href="mailto:nakkadevisriprasad004@gmail.com">
-  <img src="assets/btn-email.svg" height="48" alt="Email"/>
-</a>
-<a href="https://github.com/Dsp023">
-  <img src="assets/btn-github.svg" height="48" alt="GitHub"/>
-</a>
 
 </div>
 
-<br/>
 
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 
