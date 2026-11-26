@@ -1,7 +1,7 @@
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 <div align="center">
 
-<img src="assets/header.gif" width="2000" hight="600" alt=""/>
+<img src="assets/header.gif" width="20000" hight="600" alt=""/>
 </div>
 <br/>
 
