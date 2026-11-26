@@ -1,25 +1,11 @@
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 
-
 <div align="center">
 
-<img src="assets/header.gif" width="100%" alt="Devi Sri Prasad - AI Systems, Backend, Web"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24c6dc&height=200&section=header&text=Vikas%20Kajeepeta&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn&stroke=24c6dc&strokeWidth=1" width="100%" />
 
 <br/>
 
-<a href="https://linkedin.com/in/devi-sri-prasad-nakka-68026b333">
-  <img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"/>
-</a>
-<a href="mailto:nakkadevisriprasad004@gmail.com">
-  <img src="assets/btn-email.svg" height="48" alt="Email"/>
-</a>
-<a href="https://github.com/Dsp023">
-  <img src="assets/btn-github.svg" height="48" alt="GitHub"/>
-</a>
-
-</div>
-
-<br/>
 ### `AI/ML Developer  •  Software Engineer  •  Lifelong Learner`
 
 <br/>
