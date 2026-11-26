@@ -1,11 +1,9 @@
 <!-- ═════════════════════ HEADER ═════════════════════ -->
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/d35a73d0-5fc0-4fb9-8607-2d1a6a5a73c7"
-    width="90%"
-    alt="About Me Animation"
-  />
-</p>
+<div align="center">
+
+<img src="assets/header.gif" width="100%" alt=""/>
+</div>
+<br/>
 
 <div align="center">
 
