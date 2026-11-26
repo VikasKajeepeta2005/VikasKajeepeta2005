@@ -1,17 +1,23 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
-  Hi, I'm
-</h1>
+<img src="assets/header.gif" width="100%" alt="Devi Sri Prasad - AI Systems, Backend, Web"/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/wordmark?username=ruchitgoud&theme=aurora&label=Ruchit%20Goud" width="100%" alt="Animated 3D wordmark for Ruchit Goud" />
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" />
+<a href="https://linkedin.com/in/devi-sri-prasad-nakka-68026b333">
+  <img src="assets/btn-linkedin.svg" height="48" alt="LinkedIn"/>
+</a>
+<a href="mailto:nakkadevisriprasad004@gmail.com">
+  <img src="assets/btn-email.svg" height="48" alt="Email"/>
+</a>
+<a href="https://github.com/Dsp023">
+  <img src="assets/btn-github.svg" height="48" alt="GitHub"/>
+</a>
 
 </div>
+
+<br/>
 
 <!-- ═════════════════════ HEADER ═════════════════════ -->
 
